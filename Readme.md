@@ -16,7 +16,7 @@ This is a fun Telegram bot built using Node.js that responds with random jokes w
 
 1. Clone the repository or download the project files:
     ```bash
-    git clone https://github.com/yourusername/joke-bot.git
+    git clone https://github.com/MohitKhubchandani/Telegram_Joke_Bot.git
     cd joke-bot
     ```
 
